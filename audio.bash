@@ -59,3 +59,4 @@ rm $OUTDIR/jvs098/parallel100/wav24kHz16bit/jvs098_VOICEACTRESS100_099.wav
 
 # missing lab
 rm $OUTDIR/jvs010/nonpara30/wav24kHz16bit/jvs010_LOANWORD128_089.wav
+rm $OUTDIR/jvs058/parallel100/wav24kHz16bit/jvs098_VOICEACTRESS100_022.wav
